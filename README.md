@@ -1,2 +1,2 @@
 # hello-world
-hello workd repository
+hello world repository
